@@ -1,0 +1,24 @@
+2024-10-12 14:52:20,189 - ERROR - Error extracting Invoice Number: Field 'Invoice Number' not found in content.
+2024-10-12 14:52:20,189 - ERROR - Error extracting Invoice Date: Field 'Invoice Date' not found in content.
+2024-10-12 14:52:20,189 - ERROR - Error extracting Vendor Name: Field 'Vendor Name' not found in content.
+2024-10-12 14:52:20,190 - ERROR - Error extracting Customer Name: Field 'Customer Name' not found in content.
+2024-10-12 14:52:20,190 - ERROR - Table row does not have enough parts: Musterstr. 23
+2024-10-12 14:52:20,190 - ERROR - Table row does not have enough parts: https://www.wmaccess.com/abfragekategorien
+2024-10-12 14:56:12,281 - ERROR - Error extracting Invoice Number: Field 'Invoice Number' not found in content.
+2024-10-12 14:56:12,281 - ERROR - Error extracting Invoice Date: Field 'Invoice Date' not found in content.
+2024-10-12 14:56:12,281 - ERROR - Error extracting Vendor Name: Field 'Vendor Name' not found in content.
+2024-10-12 14:56:12,282 - ERROR - Error extracting Customer Name: Field 'Customer Name' not found in content.
+2024-10-12 14:56:12,282 - ERROR - Table row does not have enough parts: Musterstr. 23
+2024-10-12 14:56:12,282 - ERROR - Table row does not have enough parts: https://www.wmaccess.com/abfragekategorien
+2024-10-12 14:56:48,087 - ERROR - Error extracting Invoice Number: Field 'Invoice Number' not found in content.
+2024-10-12 14:56:48,087 - ERROR - Error extracting Invoice Date: Field 'Invoice Date' not found in content.
+2024-10-12 14:56:48,088 - ERROR - Error extracting Vendor Name: Field 'Vendor Name' not found in content.
+2024-10-12 14:56:48,088 - ERROR - Error extracting Customer Name: Field 'Customer Name' not found in content.
+2024-10-12 14:56:48,088 - ERROR - Table row does not have enough parts: Musterstr. 23
+2024-10-12 14:56:48,089 - ERROR - Table row does not have enough parts: https://www.wmaccess.com/abfragekategorien
+2024-10-12 15:45:26,718 - ERROR - Error extracting Invoice Number: Field 'Invoice Number' not found in content.
+2024-10-12 15:45:26,719 - ERROR - Error extracting Invoice Date: Field 'Invoice Date' not found in content.
+2024-10-12 15:45:26,719 - ERROR - Error extracting Vendor Name: Field 'Vendor Name' not found in content.
+2024-10-12 15:45:26,719 - ERROR - Error extracting Customer Name: Field 'Customer Name' not found in content.
+2024-10-12 15:45:26,719 - ERROR - Table row does not have enough parts: Musterstr. 23
+2024-10-12 15:45:26,719 - ERROR - Table row does not have enough parts: https://www.wmaccess.com/abfragekategorien
